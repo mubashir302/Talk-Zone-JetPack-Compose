@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511544303464",
+    "project_id": "talk-zone-51a9f",
+    "storage_bucket": "talk-zone-51a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511544303464:android:4643fa784fa51a2c3f00dd",
+        "android_client_info": {
+          "package_name": "uk.ac.d3846810"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxHnoVkQyhP4ji9CUOVaaGOacYWnNIP0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
